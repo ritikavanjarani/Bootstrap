@@ -1,0 +1,18 @@
+.background{
+    width: 1500px;
+    height: 1000px;
+    background-image: url('netflix.jpg');
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+.title{
+    color: red;
+    font-size: 35px;
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
